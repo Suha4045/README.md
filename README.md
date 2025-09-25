@@ -19,7 +19,7 @@
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto: aemd1695@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="mailto: aemd0039@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100076495904637" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://twitter.com/aemd1695/" title="Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black"/></a>
 <a href="tel:+249968868121" title="Phone"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=email&logoColor=white "/></a>  
