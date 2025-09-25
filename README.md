@@ -11,7 +11,7 @@
 - :school: I am a `Computer Science in Sudan` from Faculty of Computers & Information at Sudan
 - 🔭 I’m currently working on [Python Developer & Django](https://github.com/Code4Python/dj-job-Board.git)
 - 🌱 I’m currently studing `Django`
-- 📫 How to reach me **aemd1695@gmail.com**
+- 📫 How to reach me **aemd0039@gmail.com**
 - :thinking: I’m currently open for: new `Website Developer `, this is [MY RESUME](https://docs.google.com/document/d/1SVL4UXvDgA2Z_bkoRcUCwGhT1seePZI1p-K-72A6h7c/edit?usp=drive_link).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
